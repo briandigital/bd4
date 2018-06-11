@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<header>
+  <h1 class="page-title">{{ page.title }}</h1>
+</header>
+<div class="content">
+  {% if page.category == 'case-study' %}
+      {% include portfolio-links.html %}
+  {% endif %}
+  {{ content }}
+</div>

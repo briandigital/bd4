@@ -1,0 +1,1 @@
+A traditional-style weblog and portfolio site for Brian Christiansen, a UX and Instructional Designer from New England. This site's code builds upon [Jekyll](https://jekyllrb.com), [Poole/Hyde](https://github.com/poole/hyde), and [Hydeout](https://fongandrew.github.io/hydeout/).
