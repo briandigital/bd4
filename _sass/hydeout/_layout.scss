@@ -216,11 +216,11 @@ body {
       display: flex;
     }
 
-    nav.narrow-nav { 
+    .narrow-nav { 
       display: none;
     }
-  }
 
+  }
   .index #sidebar { margin-bottom: 0; }
 
   // Make entire container background white to contrast against sidebar
@@ -383,3 +383,5 @@ footer {
     }
   }
 }
+
+.linkedin-svg {width: 1em;}

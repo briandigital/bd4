@@ -6,7 +6,10 @@ layout: default
   <h1 class="page-title">{{ page.full-title }}</h1>
 </header>
 <div class="content">
-    <p>{{ page.intro-text }}</p>
+    <p>{{ page.intro-text }} <a title="LinkedIn" aria-label="LinkedIn"
+     href="https://linkedin.com/in/brianwchristiansen"> View Résumé
+    {% include svg/linkedin.svg %}
+  </a></p>
     <nav class="index-case-studies">
         <h3>Case Studies</h3>
         {% include portfolio-links.html %}
