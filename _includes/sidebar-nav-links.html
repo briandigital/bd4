@@ -7,13 +7,19 @@
     <a class="page-link {% if page.url == site.sidebar_blog_link %} active{% endif %}"
 	href="{{ site.baseurl }}{{ site.sidebar_blog_link }}">Blog</a>
   {% endif %}
+  {% include page-links.html %}
+
+  {% comment %}
+    The code below dynamically generates a sidebar nav for Portfolio and Case Study pages
+  {% endcomment %}
+
+{% include portfolio-links.html %}
 
   {% comment %}
     The code below dynamically generates a sidebar nav of pages with
     `sidebar_link: true` in the front-matter. See readme for usage.
   {% endcomment %}
 
-  {% include page-links.html %}
   {% include category-links.html %}
 
   {% include custom-nav-links.html %}

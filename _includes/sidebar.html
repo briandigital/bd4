@@ -9,6 +9,13 @@
       </a>
     </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
     <p class="lead">{{ site.description }}</p>
+  {% if page.category == "case-study" %}
+  <div class="site-title">
+    <a href="/portfolio" class="narrow-nav">
+      <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>&nbsp;Portfolio
+    </a>
+  </div>
+  {% endif %}
   </header>
   {% include sidebar-nav-links.html %}
 

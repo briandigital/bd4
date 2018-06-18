@@ -1,6 +1,8 @@
 ---
+full-title: UIE Event Marketing Sites 2009–2017
 title: UIE Event Marketing Sites 2009–2017
-layout: page
+nav-title: UIE Event Sites
+layout: portfolio-page
 category: case-study
 ---
 

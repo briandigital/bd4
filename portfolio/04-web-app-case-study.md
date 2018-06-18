@@ -2,6 +2,7 @@
 title: Web App Case Study
 layout: page
 category: case-study
+nav-title: Web&nbsp;App&nbsp;Product
 ---
 # The All You Can Learn Library from UIE
 

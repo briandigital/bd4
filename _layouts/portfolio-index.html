@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<header>
+  <h1 class="page-title">{{ page.full-title }}</h1>
+</header>
+<div class="content">
+    <p>{{ page.intro-text }}</p>
+    <nav class="index-case-studies">
+        <h3>Case Studies</h3>
+        {% include portfolio-links.html %}
+    </nav>
+    {{ content }}
+    <h4>Case studies:</h4>
+    <nav class="index-case-studies">
+        {% include portfolio-links.html %}
+    </nav>
+</div>

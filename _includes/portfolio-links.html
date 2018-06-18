@@ -1,16 +1,19 @@
 {% comment %}
-  Dynamically generate list of links to all portfolio pages
+  Dynamically generate list of links to all portfolio pages, only show if in the portfolio section.
 {% endcomment %}
-
-<nav class="message" >Other Case Studies: 
-    {% assign pages_list = site.pages %}
-    {% for node in pages_list %}
-      {% if node.title != null %}
-        {% if node.category == "case-study" %}
-        <a class="tags-list {% if page.url == node.url %}posts-for-tag{% endif %}" 
-              href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
-              {% if forloop.last == false %}|{% endif %}
+    {% if page.url contains 'portfolio' %}
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.category == "case-study" %}
+          <span><a class="case-study {% if page.url == node.url %}active{% endif %}" 
+                href="{{ site.baseurl }}{{ node.url }}">
+                {% if node.nav-title != null %}
+                  {{ node.nav-title }}
+                {% else %}
+                  {{ node.title }}
+                {% endif %}</a></span>
+          {% endif %}
         {% endif %}
-      {% endif %}
-    {% endfor %}
-</nav>
+      {% endfor %}
+    {% endif %}

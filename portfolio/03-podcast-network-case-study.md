@@ -2,6 +2,7 @@
 title: Podcast Network Case Study
 layout: page
 category: case-study
+nav-title: Podcast Network
 ---
 
 # UIE.fm – The UIE Podcast Network

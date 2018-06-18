@@ -96,6 +96,12 @@ body {
             text-decoration: none;
               }
 	}
+  a.return-link {
+    text-decoration: none;
+    text-shadow: none;
+    font-weight: bold;
+    color: $nord15;
+    }
 }
 
 .content {
@@ -103,6 +109,8 @@ body {
   color: $body-color;
   padding: $section-spacing;
 }
+
+
 
 
 /* -----------------------------------------------------------
@@ -207,6 +215,10 @@ body {
     header ~ nav {
       display: flex;
     }
+
+    nav.narrow-nav { 
+      display: none;
+    }
   }
 
   .index #sidebar { margin-bottom: 0; }
@@ -237,6 +249,32 @@ body {
   }
 }
 
+/* -----------------------------------------------------------
+  Bottoms of pages, possibly footers.
+----------------------------------------------------------- */
+
+.index-case-studies {}
+
+nav.more-case-studies {
+    margin-bottom: 10rem;
+    text-align: center;
+    }
+
+.more-case-studies > span:not(:last-of-type):after,
+.index-case-studies > span:not(:last-of-type):after {
+  content: ' | '
+}
+
+footer {
+  margin-top: 5rem;
+  padding-bottom: 10rem;
+  /*margin-bottom: 10rem;*/
+  text-align: center;
+  }
+
+.floral-heart {
+  font-size: 4rem; 
+  }
 
 /* -----------------------------------------------------------
   Sidebar links + nav
@@ -263,6 +301,10 @@ body {
 
   &.active {
     font-weight: bold;
+  }
+
+  &.case-study {
+    padding-left: 1em;
   }
 }
 
