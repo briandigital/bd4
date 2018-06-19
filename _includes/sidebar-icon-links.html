@@ -8,13 +8,13 @@
   
 <a id="twitter-link"
      class="icon" title="Twitter" aria-label="Twitter"
-     href="{{ site.twitter_name }}">
+     href="{{ site.twitter_username }}">
     {% include svg/twitter-bird.svg %}
   </a>
 
   {% comment %}
     Check if we have tag or search pages page active before linking to it.
-  {% endcomment %}
+
   {% assign tags_page = false %}
   {% assign search_page = false %}
   {% for node in site.pages %}
@@ -42,6 +42,6 @@
       {% include svg/search.svg %}
     </a>
   {% endif %}
-
+  {% endcomment %}
   {% include custom-icon-links.html %}
 </nav>
