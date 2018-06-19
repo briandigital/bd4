@@ -12,6 +12,8 @@ I spent more than a decade designing and building sites and apps at CenterCentre
 
 With a broad foundation of skills and experience, I consider myself a generalist in the field, able to play many different roles in a team. I work along side specialists, able to fill skill gaps between team members, while keeping an eye on the project holistically.
 
+I am a proponent of using open web technologies to produce accessible, progressively-enhanced, responsive designs. Holding a <abbr title="Master of Education Degree">M.Ed</abbr>. in Instructional Design, I especially enjoy working where design and learning intersect.
+
 The skills I have used the most over the past decade of UX work include,
 
 * Sketching and ideation, both solo, in small groups or leading team design studio workshops, including constructive critique.
