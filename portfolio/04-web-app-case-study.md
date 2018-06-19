@@ -30,12 +30,28 @@ Aside from shopping cart functionality, UIE had never before built a web app int
 <figcaption><small>Above: A design studio sketching session with a remote participant.</small></figcaption>
 
 ![img](/assets/img/aycl-v1-remote-usability-testing-2.png)
-<figcaption><small>Above: the team observing a remotely moderated usability test of the All You Can Learn service. Below: Early user flows and layout sketches.</small></figcaption>
+<figcaption><small>Above: the team observing a remotely moderated usability test of the All You Can Learn service.</small></figcaption>
 
-{CAPTION} Above: v1 homepage at launch. Below: v1.5 homepage revision.
+![Collage of whiteboarding and paper sketching](/assets/img/aycl-lo-fi-collage.png)
+<figcaption><small>Above: Early user flows and layout sketches.</small></figcaption> 
 
-{CAPTION} Above: v2 launched mid-2017 included big RWD, type, and color improvements via our Pattern & Style Library. Below: a v1.5 Design Process topic gallery page.
+![Screenshot of v1 homepage at launch](/assets/img/aycl-v1-home-crop.png)
+<figcaption><small>v1 homepage at launch.</small></figcaption>
 
-{CAPTION} Above: v2 Design Process Gallery page. Below: a v2 Seminar Player page.
+![Screenshot of v1.5 homepage](/assets/img/aycl-v1_5-home-crop.png)
+<figcaption><small>Above: v1.5 homepage revision.</small></figcaption>
 
-{CAPTION} Above: v2 template design critique session.
+![Screenshot of v2 homepage](/assets/img/aycl-v2-home-crop.png)
+<figcaption><small>Above: v2 launched mid-2017 included big type, RWD, and color improvements via our Pattern & Style Library.</small></figcaption>
+
+![Screenshot of v1.5 interior gallery page](/assets/img/aycl-v1-process-gallery-crop.png)
+<figcaption><small>Above: a v1.5 Design Process topic gallery page.</small></figcaption>
+
+![Screenshot of v2 interior gallery page](/assets/img/aycl-v2-design-process-crop.png)
+<figcaption><small>Above: v2 Design Process Gallery page.</small></figcaption>
+
+![Screenshot of a v2 Seminar Player page](/assets/img/aycl-v2-player-page-crop.png)
+<figcaption><small>Above: a v2 Seminar Player page.</small></figcaption>
+
+![Screenshot of a design critique session](/assets/img/aycl-v2-design-critique.jpg)
+<figcaption><small>Above: v2 template design critique session.</small></figcaption>
