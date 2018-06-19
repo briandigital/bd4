@@ -102,6 +102,16 @@ body {
     font-weight: bold;
     color: $nord15;
     }
+    
+  figcaption > small {
+    font-style: italic;
+    font-weight: lighter;
+  }
+  
+  figcaption + p {
+    margin-top: 2rem;
+  }
+  
 }
 
 .content {

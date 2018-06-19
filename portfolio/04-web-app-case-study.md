@@ -26,10 +26,11 @@ UIE had a significant number of recordings, but no way to monetize them. Sources
 Aside from shopping cart functionality, UIE had never before built a web app internally. I needed to bring in experienced contractors to build a critical element of UIE’s future revenue on a tight budget. A fully-custom solution was cost-prohibitive, so I assembled a team to create a custom app atop of the Expression Engine platform. That reduced our functionality capabilities out of the gate, and I began the design from within those constraints.
 
 ## Examples
-![img]
-{CAPTION} Above: A design studio sketching session with a remote participant.
+![3 local, 1 remote participants in a timed sketching exercise](/assets/img/aycl-timed-sketching-design-studio-and-remote.jpg)
+<figcaption><small>Above: A design studio sketching session with a remote participant.</small></figcaption>
 
-{CAPTION} Above: the team observing a remotely moderated usability test of the All You Can Learn service. Below: Early user flows and layout sketches.
+![img](/assets/img/aycl-v1-remote-usability-testing-2.png)
+<figcaption><small>Above: the team observing a remotely moderated usability test of the All You Can Learn service. Below: Early user flows and layout sketches.</small></figcaption>
 
 {CAPTION} Above: v1 homepage at launch. Below: v1.5 homepage revision.
 
