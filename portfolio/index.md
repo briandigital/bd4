@@ -4,7 +4,7 @@ full-title: Experience Design Portfolio
 layout: portfolio-index
 category: portfolio
 sidebar_link: true
-intro-text: "<strong>Brian Christiansen</strong> is an independent User Experience Designer with experience in both UX for sites and apps, and Instructional Design. His designs have been used by hundreds of thousands, and processed millions of dollars in revenue over the past decade. Now I'm sharing my expertise with remote and Boston-area teams as an independent designer."
+intro-text: "<strong>Brian Christiansen is an Independent UX Designer and Instructional Designer in Greater Boston</strong> available for local and remote opportunities. His designs have processed millions of dollars in revenue annually, and been used by by tens of thousands over the past decade. I'm now sharing my expertise with remote and Boston-area teams."
 ---
 
 ## Professional Summary
