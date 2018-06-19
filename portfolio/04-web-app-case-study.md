@@ -1,10 +1,10 @@
 ---
+full-title: The All You Can Learn Library from UIE
 title: Web App Case Study
-layout: page
+layout: portfolio-page
 category: case-study
 nav-title: Web&nbsp;App&nbsp;Product
 ---
-# The All You Can Learn Library from UIE
 
 In 2013 UIE decided to extend their online professional designer education offerings from live webinars (called “Virtual Seminars”) to an always available subscription streaming service of UX-specific videos. We dubbed the project All You Can Learn, and started planning. We’ve evolved the product and in 2017 launched a v2 with many improvements.
 
@@ -18,12 +18,12 @@ Product owner, contract visual designer, contract information architect, contrac
 
 ## What’s the customer problem?
 
-Training budgets are always the first professional resource to be cut. Designers need low-cost options for on-site training, to reduce the monetary and time- away costs of attending conferences and workshops. Many are turning to web- based materials. UIE has the best presenters and topics, but at the time only offered live webinars, and on-off recording availability for attendees.
+Training budgets are always the first professional resource to be cut. Designers need low-cost options for in-office training, to reduce the monetary and time-away costs of attending conferences and workshops. Many are turning to web-based materials. UIE has the best presenters and topics, but at the time only offered live webinars, and on-off recording availability for attendees.
 
 ## What were the business considerations?
 
-UIE had a significant number of recordings, but no way to monetize them. Sources like lynda.com were growing in popularity. The time was right for UIE to step into this market.
-Aside from shopping cart functionality, UIE had never before built a web app internally. I needed to bring in experienced contractors to build a critical element of UIE’s future revenue on a tight budget. A fully-custom solution was cost- prohibitive, so I assembled a team to create a custom app atop of the Expression Engine platform. That reduced our functionality capabilities out of the gate, and I began the design from within those constraints.
+UIE had a significant number of recordings, but no way to monetize them. Sources like Lynda.com were growing in popularity. The time was right for UIE to step into this market.
+Aside from shopping cart functionality, UIE had never before built a web app internally. I needed to bring in experienced contractors to build a critical element of UIE’s future revenue on a tight budget. A fully-custom solution was cost-prohibitive, so I assembled a team to create a custom app atop of the Expression Engine platform. That reduced our functionality capabilities out of the gate, and I began the design from within those constraints.
 
 ## Examples
 ![img]

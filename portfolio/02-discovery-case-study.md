@@ -1,10 +1,10 @@
 ---
+full-title: UIE.com Discovery and Analysis 2017
 title: Discovery Case Study
-layout: page
+layout: portfolio-page
 category: case-study
 nav-title: Discovery and Analysis
 ---
-# UIE.com Discovery and Analysis 2017
 
 Midway though 2017, I was assigned the initial work for a redesign of uie.com. I left the company before the work I completed for the project was developed. Here's a look at the discovery work on this project.
 

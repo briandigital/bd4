@@ -1,13 +1,12 @@
 ---
+full-title: UIE.fm – The UIE Podcast Network
 title: Podcast Network Case Study
-layout: page
+layout: portfolio-page
 category: case-study
 nav-title: Podcast Network
 ---
 
-# UIE.fm – The UIE Podcast Network
-
-2006–2010 I built the UIE podcasting endeavor from an experiment into a series of more than 150 episodes downloaded around around the world, hundreds of thousands of times. We hired a producer to continue the project full-time as I transitioned to a primarily design role.
+From 2006 through 2010, I built the UIE podcasting endeavor from an experiment into a series of more than 150 episodes downloaded around around the world, hundreds of thousands of times. We hired a producer to continue the project full-time as I transitioned to a primarily design role.
 
 In 2016 and 2017, I co-designed a stand alone site that would be come the home of the UIE Podcast Network, home to UIE podcasts and those of other designers in the future.
 
@@ -35,9 +34,11 @@ We pared down the initial concept to an MVP that could replace the complete func
 
 ## Outcome
 
-Live site: http://uie.fm/ | Web archive (just in case): https://web.archive.org/web/
-20180105070951/https://uie.fm/
+Live site:   
+[http://uie.fm/](http://uie.fm/)   
+Web archive (just in case):   
+[https://web.archive.org/web/20180105070951/https://uie.fm/](https://web.archive.org/web/20180105070951/https://uie.fm/)
 
-Unfortunately, moving fast, I didn’t save most of the preliminary work. We quickly hopped right into designing templates for the pages directly in CSS, beginning with our Pattern & Style Library, and extending it as needed.
+Regrettably, moving fast, I didn’t save most of the preliminary work. We quickly hopped right into designing templates for the pages directly in CSS, beginning with our Pattern & Style Library, and extending it as needed.
 
 !{img}
