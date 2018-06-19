@@ -71,9 +71,9 @@ p {
   margin-bottom: 1rem;
 }
 
-strong {
-  color: #303030;
-}
+// strong {
+//   color: $nord0;
+// }
 
 ul, ol, dl {
   margin-top: 0;
@@ -81,7 +81,7 @@ ul, ol, dl {
 }
 
 dt {
-  font-weight: bold;
+  font-weight: bolder;
 }
 
 dd {
@@ -97,10 +97,10 @@ hr {
 }
 
 abbr {
-  font-size: 85%;
-  font-weight: bold;
-  color: #555;
-  text-transform: uppercase;
+  font-weight: normal;
+//   font-size: 85%;
+//   color: #555;
+//   text-transform: uppercase;
 
   &[title] {
     cursor: help;

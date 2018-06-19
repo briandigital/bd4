@@ -8,7 +8,7 @@ $nord4: #d8dee9;  //snowstorm -- gray-white
 $nord5: #e5e9f0;  //snowstorm -- more white than 4
 $nord6: #eceff4;  //snowstorm -- more white than 5 -- white for page background
 $nord7: #8fbcbb;  //frost -- sea foam green
-$nord8: #88c0d0;  //frost -- sea form blue
+$nord8: #88c0d0;  //frost -- sea foam blue
 $nord9: #81a1c1;  //frost -- blueish white gray for light text on dark background.
 $nord10: #5e81ac; //frost -- blue for links.
 $nord11: #bf616a; //aurora -- most red.
@@ -18,8 +18,8 @@ $nord14: #a3be8c; //aurora greenish for code type color.
 $nord15: #b48ead; //aurora -- mauve?
 
 $body-bg: $nord6 !default;       // ho-orig: #fff 
-$heading-color: $nord1 !default; // ho-orig: gray-6
-$body-color: $nord0 !default;    // ho-orig: gray-5 -- primary type color
+$heading-color: $nord2 !default; // ho-orig: gray-6
+$body-color: $nord2 !default;    // ho-orig: gray-5 -- primary type color
 $body-muted: $nord2 !default;    // ho-orig: gray-4 -- meta text for example
 $link-color: $nord10 !default;   // ho-orig: $blue
 $link-color-active: $nord7 !default;
