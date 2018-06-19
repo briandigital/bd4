@@ -1,6 +1,6 @@
 ---
 full-title: UIE Event Marketing Sites 2009–2017
-title: UIE Event Marketing Sites 2009–2017
+title: UIE Event Marketing Sites Case Study
 nav-title: UIE Event Sites
 layout: portfolio-page
 category: case-study
@@ -45,38 +45,32 @@ For UI19, we collaborated with a content strategist and copywriter to develop a 
 
 ![Collage of content planning and paper prototypes.](/assets/img/ui-workshops-sketches-and-pp-c.png 'Roughing out content with paper prototypes.')
 
-<figcaption><small>Above, left: Plotting content, Above, right: modular paper prototype of desktop and mobile views.</small></figcaption>   
-
-<br />
+<figcaption><small>Above, left: Plotting content, Above, right: modular paper prototype of desktop and mobile views.</small></figcaption>
 
 ![Collage of UI22 Desktop and Mobile Sized Workshop Pages](/assets/img/ui22-workshop-desktop-mobile-collage-c.png)
 
 <figcaption>
-<small>Above: UI22 desktop and mobile (cropped).<a href="https://web.archive.org/web/20171010012241/https://ui.uie.com/workshops/dan-mall">Web Archive link to site.</a></small>
+<small>Above: UI22 desktop and mobile (cropped). <a href="https://web.archive.org/web/20171010012241/https://ui.uie.com/workshops/dan-mall">Web Archive link to site.</a></small>
 </figcaption>
 
 ## UX Immersion Interactions 2015
 
-We adapted the patterns established for UI19 to accommodate the differences between events, and mocked-up pages from older code with real content. We then printed the new layout (middle) large and posted it for discussion, critique, and comparison to previous sites (left, in photo below). 
+We adapted the patterns established for UI19 to accommodate the differences between events, and mocked-up pages from older code with real content. We then printed the new layout (middle) large and posted it for discussion, critique, and comparison to previous sites (left, in photo below).
 
 ![Paper prototypes hung on a wall marked up with critique on Post-in notes.](/assets/img/uxim-2015-digital-prototype-critique-session-c.jpg)
 
-<figcaption><small>Above: Of course there were Post-it Notes involved.</small></figcaption>
+<figcaption><small>Above: Printouts marked up during a critique and planning session. Of course there were Post-it Notes involved.</small></figcaption>
 
 ## Identity Design
 I lead the process to create the brand identity of UI21, UI22, UX Immersion: Interactions 2016–2018, and Creating a UX Playbook Workshop, in house. We created graphics, logos, and colors for each event as a cohesive whole, covering site design, social media and email graphics, and print design for on-site materials (badges, signage, etc.). 
 
 ![Collage of handdrawn and digital logo and identity sketches](/assets/img/ui-logo-iterations-c.png)
 
-<figcaption><small>Above: iterative design of the UI21 logo, as part of the broader identity design process. Below, left : [Creating a UX Playbook Workshop](http://playbook.uie.com)</small></figcaption>
-
-<br />
+<figcaption><small>Above: iterative design of the UI21 logo, as part of the broader identity design process.</small></figcaption>
 
 ![img](/assets/img/playbook-and-ui21-homepages-c.png)
 
-<figcaption><small>Playbook (left) and UI21 (right) desktop visual design.</small></figcaption>
-
-<br />
+<figcaption><small>Above: Creating a UX Playbook (left) and UI21 (right) desktop visual design. Narrow images are full-length desktop overviews, not mobile views. </small></figcaption>
 
 ![img](/assets/img/uxi-2018-id-name-badge-variations-c.jpg)
 
