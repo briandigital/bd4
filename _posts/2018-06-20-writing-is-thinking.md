@@ -1,6 +1,7 @@
 ---
 tags: writing
 full-title: On Writing Again
+title: On Writing Again
 ---
 
 I was seeking the source of the phrase "Writing is thinking". A great many people have said "Writing is thinking." Steven Sinofsky recently produced a notable Twitter thread, later [collected and annotated on his blog](https://medium.learningbyshipping.com/writing-is-thinking-an-annotated-twitter-thread-2a75fe07fade), with this as his title. However, [William Zinsser said it](https://en.wikiquote.org/wiki/William_Zinsser#On_Writing_Well_(Fifth_Edition,_orig._pub._1976)) back in 1976. He's someone who's a noted writer on, among other things, _writing_…
