@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Clarity & Hypertext
-tagline:          'Brian Christiansen | UX and Instructional Designer' #Site Title Tag
+tagline:          'Brian Christiansen &middot; UX and Instructional Designer' #Site Title Tag
 description:      'The Weblog and Portfolio of Brian Christiansen'
 url:              http://briandigital.com
 baseurl:          # the optional subpath of your site, e.g. "/blog"
