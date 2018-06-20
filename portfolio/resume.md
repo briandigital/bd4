@@ -13,7 +13,7 @@ full-title: Résumé of Brian W. Christiansen
 
 Brian addresses problems holistically by focusing upon people's context, needs, tasks, and interactions that shape experiences with services or products. He specializes in designing with open web technologies, and is a proponent of accessible, progressively-enhanced, responsive web design. Brian holds a <abbr title="Master of Education Degree">M.Ed</abbr> in Instructional Design, and loves working where design and learning intersect.
 
-In 2011, while he was full-time at UIE, he completed his <abbr title="Master of Education Degree">M.Ed</abbr> in Instructional Design at night. Outside of work, Brian is an active volunteer in his community, working with conservation groups and coaching youth sports.
+Outside of work, Brian is an active volunteer in his community, working with conservation groups and coaching youth sports.
 
 ## Experience
 
