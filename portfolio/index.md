@@ -25,4 +25,4 @@ The skills I have used the most over the past decade of UX work include,
 * Product manager in the broadest sense—building teams of coworkers and contractors, managing the design process, right down to managing version control and deployment, to running the QA process.
 * I’ve mentored many interns, and love to teach. I even have a masters degree in Instructional Design.
 
-If your Boston-area or remote team could benefit from someone with my experience, please reach out.
+If your Boston-area or remote team could benefit from someone with my experience, [please reach out](mailto:brian@briandigital.com).
