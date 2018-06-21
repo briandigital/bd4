@@ -8,7 +8,7 @@ _Something-something witty about writing about himself in the third person. Perh
 
 ## Welcome!
 
-Brian Christiansen is a father of three, wife of one, and …son of two? I've got a sassy old miniature schnauzer—where does she fit into this bio? We all live tucked into the trees, north of Boston.
+Brian Christiansen is a father of three, husband of one, and …son of two? I've got a sassy old miniature schnauzer—where does she fit into this bio? We all live tucked into the trees, north of Boston.
 
 You've found yourself on only the fourth edition of briandigital.com since its establishment in the year 2000. While I've had 3 blogs and a Tumblr, this is the first edition of _this_ site to host its own blog right on the homepage. Blogs are back, if you haven't heard. (I'm excited about this.) I put the blog on the homepage to have a little pressure to keep writing publicly.
 
