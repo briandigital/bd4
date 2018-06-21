@@ -39,7 +39,7 @@ How can you craft a vessel for a message without knowing the content first? Once
 > Good writing is lean and confident.   
 <cite>—Zinsser</cite>
 
-The current obsession with JavaScript-first development toolchains is distracting from what we're here for. Many deliver offer development ease at the cost of precision, and craft. As a result, page payloads are bloating to several—sometimes _double-digits_ of—megabytes per page load, while many of our users are on spotty or saturated 3G networks. The focus needs to be on _the users' problems_ first, not the developers' problems. Start with the user's problem, with the message, then find the most appropriate medium with which to deliver it. As technologists and problem solvers, we need to get back to that mindset.
+The current obsession with JavaScript-first development toolchains is distracting from what we're here for. Many offer development ease at the cost of precision, and craft. As a result, page payloads are bloating to several—sometimes _double-digits_ of—megabytes per page load, while many of our users are on spotty or saturated 3G networks. The focus needs to be on _the users' problems_ first, not the developers' problems. Start with the user's problem, with the message, then find the most appropriate medium with which to deliver it. As technologists and problem solvers, we need to get back to that mindset.
 
 > The writers’ job is like solving a puzzle, and finally arriving at a solution is a tremendous satisfaction.   
 <cite>—Zinsser</cite>
