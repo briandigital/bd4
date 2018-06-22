@@ -13,18 +13,18 @@ full-title: Résumé of Brian W. Christiansen
 
 Brian addresses problems holistically by focusing upon people's context, needs, tasks, and interactions that shape experiences with services or products. He specializes in designing with open web technologies, and is a proponent of accessible, progressively-enhanced, responsive web design. Brian holds a <abbr title="Master of Education Degree">M.Ed</abbr> in Instructional Design, and loves working where design and learning intersect.
 
-Outside of work, Brian is an active volunteer in his community, working with conservation groups and coaching youth sports.
+Brian moderates an active private Slack community of over 50 Boston-area web professionals, which he founded in 2014. Outside of work, Brian is an active volunteer in his community, working with conservation groups and coaching youth sports.
 
 ## Experience
 
 ### Principal Designer, Founder 
 Clarity & Hypertext
-: January 2018—Present
+: January 2018–Present
 : Bringing my UX and Instructional Design expertise to remote and Boston-area teams as an independent designer, for web– and Apple-based products.
 
 ### Director of Design & Technology
 User Interface Engineering (UIE/Center Center. Inc.)
-: October 2006—November 2017
+: October 2006–November 2017
 : I designed and managed all of our web projects, and design and deploy our information systems, working directly for Jared M. Spool.
 
 : At UIE, I oversaw 9 years of event web sites, and the creation of the All You Can Learn user experience subscription library, from personas, scenarios and problem statements, to sketches, to development, to testing, and deployment. I managed more than a dozen collaborators, designers and developers. The sites and products I built have been responsible for millions in revenue, annually. I oversaw all company technology decisions, purchases, training and implementation.
@@ -34,13 +34,13 @@ User Interface Engineering (UIE/Center Center. Inc.)
 
 ### Mac Genius
 Apple, Inc.
-: November 2002—October 2006
+: November 2002–October 2006
 : IT, troubleshooting, repair, consulting, training, sales.
 
 ## Education
 
 The University of Connecticut
-: <abbr title="Bachelor of Arts Degree">B.A.</abbr>, Visual Communcations, 1997—2001
+: <abbr title="Bachelor of Arts Degree">B.A.</abbr>, Visual Communcations, 1997–2001
 
 University of Massachusetts Boston
-: <abbr title="Master of Education Degree">M.Ed</abbr>, Instructional Design, 2007—2011
+: <abbr title="Master of Education Degree">M.Ed</abbr>, Instructional Design, 2007–2011
