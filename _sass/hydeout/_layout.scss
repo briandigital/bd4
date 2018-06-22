@@ -191,7 +191,7 @@ body {
   Tablet / Desktop view
 ----------------------------------------------------------- */
 
-@media (min-width: $large-breakpoint) {
+@media only screen and (min-width: $large-breakpoint) {
   body {
     flex-direction: row;
     height: 100vh;
@@ -376,7 +376,7 @@ footer {
 ----------------------------------------------------------- */
 
 @if $sidebar-sticky {
-  @media (min-width: $large-breakpoint) {
+  @media only screen and (min-width: $large-breakpoint) {
     body {
       align-items: flex-end;
     }
@@ -392,7 +392,7 @@ footer {
 ----------------------------------------------------------- */
 
 @if $layout-reverse {
-  @media (min-width: $large-breakpoint) {
+  @media only screen and (min-width: $large-breakpoint) {
     .container {
       order: -1;
     }
