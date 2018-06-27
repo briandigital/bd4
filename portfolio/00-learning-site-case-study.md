@@ -12,7 +12,7 @@ _When final development is completed, I'll update this case study with additiona
 
 ## What were Brian’s roles?
 
-I began the project by planning and conducting research, and user interviews, creating personas and scenarios to document who were were building for. With that knowledge in hand, we agreed upon a plan of what to write, and could then critique the materials, both content and delivery, against what we knew about our audience.
+I began the project by planning and conducting research, and user interviews, creating personas and scenarios to document who we were building for. With that knowledge in hand, we agreed upon a plan of what to write, and could then critique the materials, both content and delivery, against what we knew about our audience.
 
 I wrote a detailed user manual for their product. Next, we determined the most important topics to take further in detailed tutorials for important tasks. I created tutorials as both a written text-based resource, and as the basis of several videos which we have partnered with a video professional to produce. Those are currently wrapping production.
 
