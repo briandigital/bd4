@@ -14,7 +14,11 @@ Did you know I left UIE at the end of 2017 to become an independent UX design co
 
 —
 
-As a UX generalist I help define problems, craft personas and scenarios, develop IA, create sketches and wireframes. I handcode HTML/CSS, and am comfortable with digital prototyping. I really enjoy the center of the double diamond (img) 3/5 [^1]
+As a UX generalist I help define problems, craft personas and scenarios, develop IA, create sketches and wireframes. I handcode HTML/CSS, and am comfortable with digital prototyping. I really enjoy the center of the double diamond 3/5 
+
+![Annotated Double Diamond diagram](/assets/img/double-diamond-design-process-favorites.png 'Annotated Double Diamond describing a UX process.')
+
+<figcaption><small>Annotated Double Diamond describing <a href="https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812">a UX process by Dan Nessler</a>. Except for the red bits which are entirely my fault.</small></figcaption>
 
 —
 
@@ -35,8 +39,6 @@ Could you or anyone you know use some #UX design or #instructionaldesign contrac
 
 _(end thread)_
 
-When I built this site, I had the idea to implement a **Now** page [in the style of Derek Sivers](https://sivers.org/nowff). But I pulled back, because well, this whole site is about what I'm doing now, right? I here to hang my shingle out, so people know I'm here to help them with their design challenges?
+When I built this site, I had the idea to implement a **Now** page [in the style of Derek Sivers](https://sivers.org/nowff). But I pulled back, because well, this whole site is about what I'm doing now, right? I'm here to hang my shingle out, so people know I'm here to help them with their design challenges?
 
 When turned to [my Twitter network](https://twitter.com/briandigital), where I built many of my connections I maintain today, I realized I hadn't been talking about what I've been up to recently, and I needed to get the word out… now. So this is my "Now" blog post.
-
-[^1]: Original image source (everything but my red box and heart) courtesy of this post about [How to apply a design thinking, HCD, UX or any creative process from scratch—The Double Diamond revamped.](https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812)
