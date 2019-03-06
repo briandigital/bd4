@@ -27,5 +27,3 @@ Here are two current examples:
 ## Who else was involved?
 
 I worked remotely with a good deal of autonomy, but also collaborated closely with the company on many details. Ecamm Networks did additional backend development, as well as some front-end. We also collaborated with a video professional on the videos.
-
-_Stay tuned for more…_
