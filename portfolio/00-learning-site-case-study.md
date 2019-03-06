@@ -8,8 +8,6 @@ nav-title: 'Learning Materials & Site'
 
 From January through June of 2018, I contracted with [Ecamm Networks](http://ecamm.com) to build a comprehensive learning site for their newest product, Ecamm Live 2, an innovative live streaming Mac app for Facebook Live, YouTube Live, and other services.
 
-_When final development is completed, I'll update this case study with additional details and&nbsp;examples._
-
 ## What were Brian’s roles?
 
 I began the project by planning and conducting research, and user interviews, creating personas and scenarios to document who we were building for. With that knowledge in hand, we agreed upon a plan of what to write, and could then critique the materials, both content and delivery, against what we knew about our audience.
