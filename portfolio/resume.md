@@ -39,8 +39,8 @@ Apple, Inc.
 
 ## Education
 
-The University of Connecticut
-: <abbr title="Bachelor of Arts Degree">B.A.</abbr>, Visual Communcations, 1997–2001
-
 University of Massachusetts Boston
 : <abbr title="Master of Education Degree">M.Ed</abbr>, Instructional Design, 2007–2011
+
+University of Connecticut
+: <abbr title="Bachelor of Arts Degree">B.A.</abbr>, Visual Communications, 1997–2001
