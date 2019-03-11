@@ -8,7 +8,7 @@ intro-text: "<strong>Brian Christiansen is an Independent UX Designer and Instru
 ---
 
 ## Professional Summary
-I spent more than a decade designing and building sites and apps at CenterCentre/UIE for the most critical of audiences—other designers.
+I spent more than a decade designing and building sites and apps at CenterCentre/UIE for the most critical of audiences—other designers. Over the past year plus, I've worked with  both with a small Macintosh software developer, and designed from scratch a large greenfield enterprise web app that was a collaboration of three corporations in the healthcare market.
 
 With a broad foundation of skills and experience, I consider myself a generalist in the field, able to play many different roles in a team. I work along side specialists, able to fill skill gaps between team members, while keeping an eye on the project holistically.
 
