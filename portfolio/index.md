@@ -8,7 +8,7 @@ intro-text: "<strong>Brian Christiansen is an Independent UX Designer and Instru
 ---
 
 ## Professional Summary
-I spent more than a decade designing and building sites and apps at CenterCentre/UIE for the most critical of audiences—other designers. Over the past year plus, I've worked with  both with a small Macintosh software developer, and designed from scratch a large greenfield enterprise web app that was a collaboration of three corporations in the healthcare market.
+I spent more than a decade designing and building sites and apps at CenterCentre/UIE for the most critical of audiences—other designers. Over the past year plus as an independent UX designer, I've worked with both with a small Macintosh software developer, and designed from scratch a large greenfield enterprise web app, a collaboration of three corporations, in the healthcare market.
 
 With a broad foundation of skills and experience, I consider myself a generalist in the field, able to play many different roles in a team. I work along side specialists, able to fill skill gaps between team members, while keeping an eye on the project holistically.
 
@@ -23,6 +23,6 @@ The skills I have used the most over the past decade of UX work include,
 * Technically adept, I'm at home working side-by-side with developers of all types.
 * Organizing and guiding specialist talent for the execution of the visual and development aspects of the project.
 * Product manager in the broadest sense—building teams of coworkers and contractors, managing the design process, right down to managing version control and deployment, to running the QA process.
-* I’ve mentored many interns, and love to teach. I even have a masters degree in Instructional Design.
+* I’ve <a href="https://uie.com/meet-the-interns" title="See 2012–17">mentored many interns</a>, and love to teach.
 
 If your Boston-area or remote team could benefit from someone with my experience, [please reach out](mailto:brian@briandigital.com).
