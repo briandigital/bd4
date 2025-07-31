@@ -1,7 +1,7 @@
 {% comment %}
-  Dynamically generate list of links to all portfolio pages, only show if in the portfolio section or on home page.
+  Dynamically generate list of links to all portfolio pages and resume, show as submenu under Home when on case study pages or when Home is active.
 {% endcomment %}
-    {% if page.url contains 'portfolio' or page.url == '/' %}
+    {% if page.url contains 'portfolio' or page.url == '/' or page.category == "case-study" %}
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
@@ -14,6 +14,13 @@
                   {{ node.title }}
                 {% endif %}</a></span>
           {% endif %}
+        {% endif %}
+      {% endfor %}
+      {% comment %} Add resume link {% endcomment %}
+      {% for node in pages_list %}
+        {% if node.title == "Résumé" %}
+          <span><a class="case-study {% if page.url == node.url %}active{% endif %}" 
+                href="{{ site.baseurl }}{{ node.url }}">Résumé</a></span>
         {% endif %}
       {% endfor %}
     {% endif %}

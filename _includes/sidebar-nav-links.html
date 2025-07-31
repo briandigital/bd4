@@ -2,18 +2,38 @@
   {% if site.sidebar_home_link %}
     <a class="home-link {% if page.url == '/' %} active{% endif %}"
         href="{{ site.baseurl }}/">Home</a>
+    {% comment %}
+      Show case studies and resume as submenu under Home when on case study pages or when Home is active
+    {% endcomment %}
+    {% if page.url contains 'portfolio' or page.url == '/' or page.category == "case-study" %}
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.category == "case-study" %}
+          <span class="submenu-item"><a class="case-study {% if page.url == node.url %}active{% endif %}" 
+                href="{{ site.baseurl }}{{ node.url }}">
+                {% if node.nav-title != null %}
+                  {{ node.nav-title }}
+                {% else %}
+                  {{ node.title }}
+                {% endif %}</a></span>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      {% comment %} Add resume link {% endcomment %}
+      {% for node in pages_list %}
+        {% if node.title == "Résumé" %}
+          <span class="submenu-item"><a class="case-study {% if page.url == node.url %}active{% endif %}" 
+                href="{{ site.baseurl }}{{ node.url }}">Résumé</a></span>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
   {% endif %}
   {% if site.sidebar_blog_link %}
     <a class="page-link {% if page.url == site.sidebar_blog_link %} active{% endif %}"
 	href="{{ site.baseurl }}{{ site.sidebar_blog_link }}">Blog</a>
   {% endif %}
   {% include page-links.html %}
-
-  {% comment %}
-    The code below dynamically generates a sidebar nav for Portfolio and Case Study pages
-  {% endcomment %}
-
-{% include portfolio-links.html %}
 
   {% comment %}
     The code below dynamically generates a sidebar nav of pages with
