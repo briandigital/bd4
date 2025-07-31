@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Clarity & Hypertext
-tagline:          'Brian Christiansen &middot; Product Leader &amp; UX Generalist'
-description:      'The Portfolio of <br/>Brian Christiansen'
+tagline:          'Brian Christiansen &middot; Product Leader &amp; UX&nbsp;Generalist'
+description:      'The Portfolio of Brian&nbsp;Christiansen'
 url:              http://brianchristiansen.com
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -55,4 +55,6 @@ sidebar_home_link:  true
 github:
   repo:             https://github.com/briandigital/briandigital4
 
-twitter_username:   https://twitter.com/briandigital
+linkedin_username:   https://linkedin.com/in/brianwchristiansen
+mastodon_username:   https://indieweb.social/@briandigital
+bluesky_username:   https://bsky.app/profile/briandigital.com

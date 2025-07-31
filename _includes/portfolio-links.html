@@ -16,11 +16,12 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-      {% comment %} Add resume link {% endcomment %}
+      {% comment %} Add resume link 
       {% for node in pages_list %}
         {% if node.title == "Résumé" %}
           <span><a class="case-study {% if page.url == node.url %}active{% endif %}" 
                 href="{{ site.baseurl }}{{ node.url }}">Résumé</a></span>
         {% endif %}
       {% endfor %}
+      {% endcomment %}
     {% endif %}
