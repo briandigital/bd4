@@ -4,9 +4,9 @@ highlighter:      rouge
 
 # Setup
 title:            Clarity & Hypertext
-tagline:          'Brian Christiansen &middot; UX and Instructional Designer' #Site Title Tag
-description:      'The Weblog and Portfolio of Brian Christiansen'
-url:              http://briandigital.com
+tagline:          'Brian Christiansen &middot; Product Leader &amp; UX Generalist'
+description:      'The Portfolio of <br/>Brian Christiansen'
+url:              http://brianchristiansen.com
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -46,7 +46,7 @@ defaults:
       layout: "post"
       
 # Custom vars
-version:            4.4.1
+version:            4.4.1 
 sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,

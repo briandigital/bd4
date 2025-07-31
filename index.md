@@ -1,6 +1,6 @@
 ---
 title: Home
-full-title: Brian Christiansen - UX and Instructional Designer
+full-title: "Brian Christiansen &middot; Product Leader &amp; UX Generalist"
 layout: portfolio-index
 intro-text: "<strong>Brian Christiansen is an Independent UX Designer and Instructional Designer in Greater Boston</strong> available for local and remote opportunities. His designs have processed millions of dollars in revenue annually, and been used by by tens of thousands over the past decade. I'm now sharing my expertise with remote and Boston-area teams."
 ---
@@ -21,6 +21,6 @@ The skills I have used the most over the past decade of UX work include,
 * Technically adept, I'm at home working side-by-side with developers of all types.
 * Organizing and guiding specialist talent for the execution of the visual and development aspects of the project.
 * Product manager in the broadest sense—building teams of coworkers and contractors, managing the design process, right down to managing version control and deployment, to running the QA process.
-* I've <a href="https://uie.com/meet-the-interns" title="See 2012–17">mentored many interns</a>, and love to teach.
+* I've <a href="https://web.archive.org/web/20170417125902/https://www.uie.com/meet-the-interns/" title="See 2012–17">mentored many interns</a>, and love to teach.
 
 If your Boston-area or remote team could benefit from someone with my experience, [please reach out](mailto:brian@briandigital.com).
