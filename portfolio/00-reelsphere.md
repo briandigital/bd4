@@ -1,5 +1,5 @@
 ---
-full-title: ReelSphere: Automated Video Creation with AI
+full-title: ReelSphere — Automated Video Creation with AI
 title: Automated Video Creation
 layout: portfolio-page
 category: case-study
@@ -8,7 +8,9 @@ nav-title: 'Reelsphere'
 
 ## Highlights
 - First of its kind automated video generation product for the broadcast industry enabling hyperlocal weather videos for mobile, CTV, broadcast and web.
-- Unveiled at NAB 2025 — [Press coverage from The Verge](https://www.theverge.com/2024/4/11/24126670/weather-channel-weather-company-ai-local-forecast) [Press coverage from TVNewsCheck](https://tvnewscheck.com/digital/article/ai-and-automation-fuel-new-audiences-and-revenue-with-weather-programming/) 
+- Unveiled at NAB 2025 — Press coverage from 
+	- [The Verge](https://www.theverge.com/2024/4/11/24126670/weather-channel-weather-company-ai-local-forecast) 
+	- [TVNewsCheck](https://tvnewscheck.com/digital/article/ai-and-automation-fuel-new-audiences-and-revenue-with-weather-programming/) 
 - The NAB debut generated a strong pipeline of new trial users.
 - First AI-powered user features in the company, other groups looked to our project for their needs.
 
