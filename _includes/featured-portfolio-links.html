@@ -1,13 +1,13 @@
 {% comment %}
-  Dynamically generate list of links to additional/older portfolio pages, excluding featured ones.
+  Generate list of links to featured/recent portfolio pages. Shows high-quality, recent work.
 {% endcomment %}
     {% if page.url contains 'portfolio' or page.url == '/' or page.category == "case-study" %}
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.category == "case-study" %}
-            {% comment %} Exclude ReelSphere as it's featured separately {% endcomment %}
-            {% unless node.url contains 'reelsphere' %}
+            {% comment %} Show ReelSphere (2025) as featured case study {% endcomment %}
+            {% if node.url contains 'reelsphere' %}
               <span><a class="case-study {% if page.url == node.url %}active{% endif %}" 
                     href="{{ site.baseurl }}{{ node.url }}">
                     {% if node.nav-title != null %}
@@ -15,16 +15,8 @@
                     {% else %}
                       {{ node.title }}
                     {% endif %}</a></span>
-            {% endunless %}
+            {% endif %}
           {% endif %}
         {% endif %}
       {% endfor %}
-      {% comment %} Add resume link 
-      {% for node in pages_list %}
-        {% if node.title == "Résumé" %}
-          <span><a class="case-study {% if page.url == node.url %}active{% endif %}" 
-                href="{{ site.baseurl }}{{ node.url }}">Résumé</a></span>
-        {% endif %}
-      {% endfor %}
-      {% endcomment %}
     {% endif %}
