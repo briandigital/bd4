@@ -3,7 +3,7 @@ full-title: ReelSphere — Automated Video Creation with AI
 title: Automated Video Creation
 layout: portfolio-page
 category: case-study
-nav-title: 'ReelSphere (2025)'
+nav-title: 'ReelSphere (’24–’25)'
 ---
 
 ## Highlights
