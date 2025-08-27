@@ -2,6 +2,12 @@
 layout: default
 ---
 
+{% if page.category == 'case-study' %}
+<link href="https://cdn.jsdelivr.net/npm/fslightbox@3/index.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/fslightbox@3/index.min.js"></script>
+<script>new FsLightbox();</script>
+{% endif %}
+
 <header>
     <h1 class="page-title">{{ page.full-title }}</h1>
 </header>

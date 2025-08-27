@@ -46,7 +46,7 @@ The earliest builds of version 1.1, shown to great acclaim at the 2025 National 
 With these features set to reach customers' soon, ReelSphere will empower meteorologists with a vital tool to serve the demands of modern media.
 
 <!--
-![Placeholder link content.](/assets/img/placeholder.png 'Roughing out content with paper prototypes.')
+<a href="/assets/img/placeholder.png" data-fslightbox><img src="/assets/img/placeholder.png" alt="Roughing out content with paper prototypes."></a>
 
 <figcaption><small>Placehodler caption content</small></figcaption>
 -->

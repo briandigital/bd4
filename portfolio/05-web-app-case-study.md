@@ -26,32 +26,32 @@ UIE had a significant number of recordings, but no way to monetize them. Sources
 Aside from shopping cart functionality, UIE had never before built a web app internally. I needed to bring in experienced contractors to build a critical element of UIE’s future revenue on a tight budget. A fully-custom solution was cost-prohibitive, so I assembled a team to create a custom app atop of the Expression Engine platform. That reduced our functionality capabilities out of the gate, and I began the design from within those constraints.
 
 ## Examples
-![3 local, 1 remote participants in a timed sketching exercise](/assets/img/aycl-timed-sketching-design-studio-and-remote.jpg)
+<a href="/assets/img/aycl-timed-sketching-design-studio-and-remote.jpg" data-fslightbox><img src="/assets/img/aycl-timed-sketching-design-studio-and-remote.jpg" alt="3 local, 1 remote participants in a timed sketching exercise"></a>
 <figcaption><small>Above: A design studio sketching session with a remote participant.</small></figcaption>
 
-![img](/assets/img/aycl-v1-remote-usability-testing-2.png)
+<a href="/assets/img/aycl-v1-remote-usability-testing-2.png" data-fslightbox><img src="/assets/img/aycl-v1-remote-usability-testing-2.png" alt="img"></a>
 <figcaption><small>Above: the team observing a remotely moderated usability test of the All You Can Learn service.</small></figcaption>
 
-![Collage of whiteboarding and paper sketching](/assets/img/aycl-lo-fi-collage.png)
+<a href="/assets/img/aycl-lo-fi-collage.png" data-fslightbox><img src="/assets/img/aycl-lo-fi-collage.png" alt="Collage of whiteboarding and paper sketching"></a>
 <figcaption><small>Above: Early user flows and layout sketches.</small></figcaption> 
 
-![Screenshot of v1 homepage at launch](/assets/img/aycl-v1-home-crop.png)
+<a href="/assets/img/aycl-v1-home-crop.png" data-fslightbox><img src="/assets/img/aycl-v1-home-crop.png" alt="Screenshot of v1 homepage at launch"></a>
 <figcaption><small>v1 homepage at launch.</small></figcaption>
 
-![Screenshot of v1.5 homepage](/assets/img/aycl-v1_5-home-crop.png)
+<a href="/assets/img/aycl-v1_5-home-crop.png" data-fslightbox><img src="/assets/img/aycl-v1_5-home-crop.png" alt="Screenshot of v1.5 homepage"></a>
 <figcaption><small>Above: v1.5 homepage revision.</small></figcaption>
 
-![Screenshot of v2 homepage](/assets/img/aycl-v2-home-crop.png)
+<a href="/assets/img/aycl-v2-home-crop.png" data-fslightbox><img src="/assets/img/aycl-v2-home-crop.png" alt="Screenshot of v2 homepage"></a>
 <figcaption><small>Above: v2 launched mid-2017 included big type, RWD, and color improvements via our Pattern & Style Library.</small></figcaption>
 
-![Screenshot of v1.5 interior gallery page](/assets/img/aycl-v1-process-gallery-crop.png)
+<a href="/assets/img/aycl-v1-process-gallery-crop.png" data-fslightbox><img src="/assets/img/aycl-v1-process-gallery-crop.png" alt="Screenshot of v1.5 interior gallery page"></a>
 <figcaption><small>Above: a v1.5 Design Process topic gallery page.</small></figcaption>
 
-![Screenshot of v2 interior gallery page](/assets/img/aycl-v2-design-process-crop.png)
+<a href="/assets/img/aycl-v2-design-process-crop.png" data-fslightbox><img src="/assets/img/aycl-v2-design-process-crop.png" alt="Screenshot of v2 interior gallery page"></a>
 <figcaption><small>Above: v2 Design Process Gallery page.</small></figcaption>
 
-![Screenshot of a v2 Seminar Player page](/assets/img/aycl-v2-player-page-crop.png)
+<a href="/assets/img/aycl-v2-player-page-crop.png" data-fslightbox><img src="/assets/img/aycl-v2-player-page-crop.png" alt="Screenshot of a v2 Seminar Player page"></a>
 <figcaption><small>Above: a v2 Seminar Player page.</small></figcaption>
 
-![Screenshot of a design critique session](/assets/img/aycl-v2-design-critique.jpg)
+<a href="/assets/img/aycl-v2-design-critique.jpg" data-fslightbox><img src="/assets/img/aycl-v2-design-critique.jpg" alt="Screenshot of a design critique session"></a>
 <figcaption><small>Above: v2 template design critique session.</small></figcaption>

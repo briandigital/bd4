@@ -36,18 +36,18 @@ To complicate the project, marketing for an event has to start well before full 
 
 UI18 is the point where we settled on a pattern for revealing conference information incrementally. This is the white board from the meeting I lead where we worked that out. Future events would be based upon this model with minor modifications.
 
-![Sketches on a whiteboard planning the stages of UI18's site.](/assets/img/ui18-stage-planning-c.jpg 'Planning the stages of UI18's site.')
+<a href="/assets/img/ui18-stage-planning-c.jpg" data-fslightbox><img src="/assets/img/ui18-stage-planning-c.jpg" alt="Planning the stages of UI18's site."></a>
 
 ### UI & UXI Workshop Page Design
 
 For UI19, we collaborated with a content strategist and copywriter to develop a formula to make our workshop descriptions—the core information for purchase decisions—as useful as possible. We built a logic and a layout side-by-side. Well received in usability testing, I built [a Google Doc Template to aid future writers](https://docs.google.com/a/briandigital.com/document/d/1GrhMt_hh3z8IV15cVKjWcBQIWzhZLDmPYIk0CCZsnGw/edit?usp=sharing)— and they love it.
 
 
-![Collage of content planning and paper prototypes.](/assets/img/ui-workshops-sketches-and-pp-c.png 'Roughing out content with paper prototypes.')
+<a href="/assets/img/ui-workshops-sketches-and-pp-c.png" data-fslightbox><img src="/assets/img/ui-workshops-sketches-and-pp-c.png" alt="Roughing out content with paper prototypes."></a>
 
 <figcaption><small>Above, left: Plotting content, Above, right: modular paper prototype of desktop and mobile views.</small></figcaption>
 
-![Collage of UI22 Desktop and Mobile Sized Workshop Pages](/assets/img/ui22-workshop-desktop-mobile-collage-c.png)
+<a href="/assets/img/ui22-workshop-desktop-mobile-collage-c.png" data-fslightbox><img src="/assets/img/ui22-workshop-desktop-mobile-collage-c.png" alt="Collage of UI22 Desktop and Mobile Sized Workshop Pages"></a>
 
 <figcaption>
 <small>Above: UI22 desktop and mobile (cropped). <a href="https://web.archive.org/web/20171010012241/https://ui.uie.com/workshops/dan-mall">Web Archive link to site.</a></small>
@@ -57,22 +57,22 @@ For UI19, we collaborated with a content strategist and copywriter to develop a 
 
 We adapted the patterns established for UI19 to accommodate the differences between events, and mocked-up pages from older code with real content. We then printed the new layout (middle) large and posted it for discussion, critique, and comparison to previous sites (left, in photo below).
 
-![Paper prototypes hung on a wall marked up with critique on Post-in notes.](/assets/img/uxim-2015-digital-prototype-critique-session-c.jpg)
+<a href="/assets/img/uxim-2015-digital-prototype-critique-session-c.jpg" data-fslightbox><img src="/assets/img/uxim-2015-digital-prototype-critique-session-c.jpg" alt="Paper prototypes hung on a wall marked up with critique on Post-in notes."></a>
 
 <figcaption><small>Above: Printouts marked up during a critique and planning session. Of course there were Post-it Notes involved.</small></figcaption>
 
 ## Identity Design
 I lead the process to create the brand identity of UI21, UI22, UX Immersion: Interactions 2016–2018, and Creating a UX Playbook Workshop, in house. We created graphics, logos, and colors for each event as a cohesive whole, covering site design, social media and email graphics, and print design for on-site materials (badges, signage, etc.). 
 
-![Collage of handdrawn and digital logo and identity sketches](/assets/img/ui-logo-iterations-c.png)
+<a href="/assets/img/ui-logo-iterations-c.png" data-fslightbox><img src="/assets/img/ui-logo-iterations-c.png" alt="Collage of handdrawn and digital logo and identity sketches"></a>
 
 <figcaption><small>Above: iterative design of the UI21 logo, as part of the broader identity design process.</small></figcaption>
 
-![img](/assets/img/playbook-and-ui21-homepages-c.png)
+<a href="/assets/img/playbook-and-ui21-homepages-c.png" data-fslightbox><img src="/assets/img/playbook-and-ui21-homepages-c.png" alt="img"></a>
 
 <figcaption><small>Above: Creating a UX Playbook (left) and UI21 (right) desktop visual design. Narrow images are full-length desktop overviews, not mobile views. </small></figcaption>
 
-![img](/assets/img/uxi-2018-id-name-badge-variations-c.jpg)
+<a href="/assets/img/uxi-2018-id-name-badge-variations-c.jpg" data-fslightbox><img src="/assets/img/uxi-2018-id-name-badge-variations-c.jpg" alt="img"></a>
 
 <figcaption><small>Above: Iterations on the UX Immersion: Interactions 2018 Attendee and Speaker name badges, as part of the 2018 Identity redesign work.</small></figcaption>
 

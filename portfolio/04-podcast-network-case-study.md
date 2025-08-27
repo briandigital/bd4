@@ -41,4 +41,4 @@ Web archive (just in case):
 
 Regrettably, moving fast, I didn’t save most of the preliminary work. We quickly hopped right into designing templates for the pages directly in CSS, beginning with our Pattern & Style Library, and extending it as needed.
 
-![Screenshot of the top of uie.fm, handheld width](/assets/img/podn-mobile-top.png)
+<a href="/assets/img/podn-mobile-top.png" data-fslightbox><img src="/assets/img/podn-mobile-top.png" alt="Screenshot of the top of uie.fm, handheld width"></a>
