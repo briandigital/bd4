@@ -6,16 +6,12 @@
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.category == "case-study" %}
-            {% comment %} Exclude ReelSphere as it's featured separately {% endcomment %}
-            {% unless node.url contains 'reelsphere' %}
-              <span><a class="case-study {% if page.url == node.url %}active{% endif %}" 
-                    href="{{ site.baseurl }}{{ node.url }}">
-                    {% if node.nav-title != null %}
-                      {{ node.nav-title }}
-                    {% else %}
-                      {{ node.title }}
-                    {% endif %}</a></span>
-            {% endunless %}
+            {% assign display_title = node.nav-title | default: node.title %}
+            {% if page.url == node.url %}
+              <span><strong>{{ display_title }}</strong></span>
+            {% else %}
+              <span><a class="case-study" href="{{ site.baseurl }}{{ node.url }}">{{ display_title }}</a></span>
+            {% endif %}
           {% endif %}
         {% endif %}
       {% endfor %}
