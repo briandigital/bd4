@@ -45,6 +45,6 @@ The earliest builds of version 1.1, shown to great acclaim at the 2025 National 
 
 With these features set to reach customers' soon, ReelSphere will empower meteorologists with a vital tool to serve the demands of modern media.
 
-<a href="/assets/img/reelsphere_conditions_menu.png" data-fslightbox="gallery"><img src="/assets/img/placeholder.png" alt="A Figma Screen mockup detailing a change to the Conditions menu."></a>
+<a href="/assets/img/reelsphere_conditions_menu.png" data-fslightbox="gallery"><img src="/assets/img/reelsphere_conditions_menu.png" alt="A Figma Screen mockup detailing a change to the Conditions menu."></a>
 
 <figcaption><small>Conditions Menu for a ReelSphere Scene.</small></figcaption>
