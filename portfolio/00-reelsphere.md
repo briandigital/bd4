@@ -43,7 +43,7 @@ With the problem validated, version 1 focused on letting users create stories fr
 
 The earliest builds of version 1.1, shown to great acclaim at the 2025 National Association of Broadcasters conference, were still a work in progress. While I collaborated with our internal AI/ML team who built the generative script backend, a key issue remained: the LLM-generated scripts were inconsistent. I was responsible for a complete rewrite of the script-generating prompt, slimming it down from over 2,200 words to around 1,800 and applying best-practices for LLM prompting. This overhaul enabled the system to reliably create LLM-written scripts for each scene with a tunable style and tone.
 
-With these features set to reach customers' soon, ReelSphere will empower meteorologists with a vital tool to serve the demands of modern media.
+With these features set to reach customers soon, ReelSphere will empower meteorologists with a vital tool to serve the demands of modern media.
 
 <a href="/assets/img/reelsphere_conditions_menu.png" data-fslightbox="gallery"><img src="/assets/img/reelsphere_conditions_menu.png" alt="A Figma Screen mockup detailing a change to the Conditions menu."></a>
 
