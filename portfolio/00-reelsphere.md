@@ -47,4 +47,4 @@ With these features set to reach customers' soon, ReelSphere will empower meteor
 
 <a href="/assets/img/reelsphere_conditions_menu.png" data-fslightbox="gallery"><img src="/assets/img/reelsphere_conditions_menu.png" alt="A Figma Screen mockup detailing a change to the Conditions menu."></a>
 
-<figcaption><small>Conditions Menu for a ReelSphere Scene.</small></figcaption>
+<figcaption><small>Conditions Menu for a ReelSphere Scene (Figma Mockup).</small></figcaption>
