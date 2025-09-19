@@ -5,8 +5,16 @@ full-title: Résumé of Brian W. Christiansen
 ---
 <strong>Product Leader and UX Generalist in Greater&nbsp;Boston</strong> available for local and remote&nbsp;opportunities.   
 <a href="http://brianchristiansen.com">brianchristiansen.com</a> &middot; <a href="mailto:brian@briandigital.com">brian@briandigital.com</a> &middot; <a title="View my current résumé on LinkedIn" aria-label="LinkedIn"
-     href="https://linkedin.com/in/brianwchristiansen"> LinkedIn Profile
-     {% include svg/linkedin.svg %}
+     href="https://linkedin.com/in/brianwchristiansen"> LinkedIn&nbsp;Profile
+    &nbsp;{% include svg/linkedin.svg %}
+    </a>&nbsp;&middot;
+<a title="View my current résumé as PDF" aria-label="PDF"
+     href="/assets/files/christiansen-resume-2025-v6.pdf"> Résumé&nbsp;as&nbsp;PDF
+    &nbsp;{% include svg/pdf.svg %}
+    </a>&nbsp;&middot; 
+<a title="View my current résumé as DOCx formatted for ATS" aria-label="docx"
+     href="/assets/files/christiansen-resume-2025-v6x.docx"> Résumé&nbsp;as&nbsp;DOCX
+    &nbsp;{% include svg/docx.svg %}
     </a>
 
 ## Summary
